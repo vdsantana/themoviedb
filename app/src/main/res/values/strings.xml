@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MobileSaudeTest</string>
+    <string name="loading">Loading...</string>
+    <string name="details">Details</string>
+    <string name="users_rating">Users rating:</string>
+    <string name="release_date">Release date:</string>
+    <string name="rate">Rate</string>
+    <string name="home">Home</string>
+    <string name="cinema">Movie theater</string>
+    <string name="other">Other</string>
+    <string name="where_watched">Where you watched the movie?</string>
+    <string name="when_watched">When you watched?</string>
+    <string name="opinion">Opinion</string>
+    <string name="send">Send</string>
+    <string name="sending">Sending</string>
+    <string name="sent">Your opinion has been successfully sent</string>
+</resources>
